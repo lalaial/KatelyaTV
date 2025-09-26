@@ -401,7 +401,7 @@
     },
     "apilj_provide": {
       "api": "https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄",
+      "name": "辣椒资源",
       "is_adult": false
     },
     "yzzy_api": {
